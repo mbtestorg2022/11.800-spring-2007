@@ -4,18 +4,257 @@ title: Calendar
 uid: 45780d4b-0853-50ed-53d8-a5753770a2e7
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | {{< h 3 >}}Introduction{{< /h >}} {{< br >}}{{< br >}} Knowledge in use: Problems and opportunities, overview of the course, participant interests. {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | {{< h 3 >}}Models of knowledge production and decision making{{< /h >}} {{< br >}}{{< br >}} Rational policy/planning model, muddling through, deliberation, causal reasoning. {{< br >}}{{< br >}}  | &nbsp; |
-| 3 | {{< h 3 >}}Agendas and the policy process{{< /h >}} {{< br >}}{{< br >}} Agenda-setting and agenda-informing research, politics of the policy process, policy actors and messages. {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | {{< h 3 >}}Frames and persuasion{{< /h >}} {{< br >}}{{< br >}} Sensemaking and storytelling with and without research, frame analysis, reframing. Case: Education reform. {{< br >}}{{< br >}} Guest: Jal Mehta {{< br >}}{{< br >}}  | Problem statement for case paper due |
-| 5 | {{< h 3 >}}Paradigms and fads{{< /h >}} {{< br >}}{{< br >}} Focus: design and city form, "urban utopias." {{< br >}}{{< br >}} Guest: Lawrence Vale {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | {{< h 3 >}}Diffusion of innovation{{< /h >}} {{< br >}}{{< br >}} Creating and diffusing innovation, replication and mimicking. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Take-home midterm exam available {{< br >}}{{< br >}}  |
-| 7 | {{< h 3 >}}Case: Fighting ghetto poverty{{< /h >}} {{< br >}}{{< br >}} The Moving to Opportunity (MTO) experiment, images of ghetto poverty and the poor. {{< br >}}{{< br >}} Guest: Jeffrey Liebman {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Midterm exam due {{< br >}}{{< br >}}  |
-| 8 | {{< h 3 >}}Case: Science in policy disputes{{< /h >}} {{< br >}}{{< br >}} Guest: Lawrence Susskind {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | {{< h 3 >}}Action learning and practice{{< /h >}} {{< br >}}{{< br >}} Theories of practice, action learning, communities of practice (knowledge networks). {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | {{< h 3 >}}The politics and use of evaluation research{{< /h >}} {{< br >}}{{< br >}} Truth tests and utility tests, demonstration theory of social change. {{< br >}}{{< br >}}  | &nbsp; |
-| 11 | {{< h 3 >}}Research writing for non-academic readers{{< /h >}} {{< br >}}{{< br >}} The form and function of research briefs and related media (press releases, etc.) {{< br >}}{{< br >}}  | &nbsp; |
-| 12 | Discussion of student briefs and case papers in progress. | Research briefs due 48 hours before class, for peer and faculty review |
-| 13 | Course review, discussion of case topics. | Final case papers due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Introduction
+
+Knowledge in use: Problems and opportunities, overview of the course, participant interests.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Models of knowledge production and decision making
+
+Rational policy/planning model, muddling through, deliberation, causal reasoning.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Agendas and the policy process
+
+Agenda-setting and agenda-informing research, politics of the policy process, policy actors and messages.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Frames and persuasion
+
+Sensemaking and storytelling with and without research, frame analysis, reframing. Case: Education reform.
+
+Guest: Jal Mehta
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem statement for case paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Paradigms and fads
+
+Focus: design and city form, "urban utopias."
+
+Guest: Lawrence Vale
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Diffusion of innovation
+
+Creating and diffusing innovation, replication and mimicking.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Take-home midterm exam available
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Case: Fighting ghetto poverty
+
+The Moving to Opportunity (MTO) experiment, images of ghetto poverty and the poor.
+
+Guest: Jeffrey Liebman
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm exam due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Case: Science in policy disputes
+
+Guest: Lawrence Susskind
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Action learning and practice
+
+Theories of practice, action learning, communities of practice (knowledge networks).
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### The politics and use of evaluation research
+
+Truth tests and utility tests, demonstration theory of social change.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Research writing for non-academic readers
+
+The form and function of research briefs and related media (press releases, etc.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of student briefs and case papers in progress.
+{{< tdclose >}}
+{{< tdopen >}}
+Research briefs due 48 hours before class, for peer and faculty review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Course review, discussion of case topics.
+{{< tdclose >}}
+{{< tdopen >}}
+Final case papers due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

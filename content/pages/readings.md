@@ -246,9 +246,9 @@ Guest: Lawrence Susskind, MIT and the Consensus Building Institute
 
 Ehrmann, John R., and Barbara L. Stinson. "Joint Fact Finding and the Use of Technical Experts." In _The Consensus Building Handbook_. Edited by Lawrence Susskind, et al. Thousand Oaks, CA: Sage, 1999, pp. 375-399. ISBN: 9780761908449.
 
-Lenard, Steven R., and Ian J. Finlayson. "The Role of the Scientist in Collaborative Environmental Policy Making." MIT-USGS Science Impact Collaborative. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/lenard_fsonfinal))
+Lenard, Steven R., and Ian J. Finlayson. "The Role of the Scientist in Collaborative Environmental Policy Making." MIT-USGS Science Impact Collaborative. ([PDF](/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/lenard_fsonfinal))
 
-Amengual, Matthew. "Incorporating Local Knowledge Into Joint Fact Finding." MIT-USGS Science Impact Collaborative. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/amengual_final))
+Amengual, Matthew. "Incorporating Local Knowledge Into Joint Fact Finding." MIT-USGS Science Impact Collaborative. ([PDF](/courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/resources/amengual_final))
 
 
 {{< tdclose >}}

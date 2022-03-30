@@ -5,6 +5,7 @@ description: This resource contains reading tips and study questions on science 
   joint fact finding.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-800-doctoral-research-seminar-knowledge-in-the-public-arena-spring-2007/03abf987e0cc8523f3bd19ff01d6b254_read8.pdf
 file_type: application/pdf
+parent_uid: 80328e79-d355-5633-b533-3a7973455daf
 resourcetype: Document
 title: read8.pdf
 uid: 03abf987-e0cc-8523-f3bd-19ff01d6b254
